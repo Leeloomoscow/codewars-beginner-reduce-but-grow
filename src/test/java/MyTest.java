@@ -14,7 +14,7 @@ public class MyTest {
         public static int grow(int[] x) {
             int result = 1;
             for (int x1 : x) {
-               result *= x1;
+                result *= x1;
             }
             return result;
         }
